@@ -1,0 +1,69 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum iscsimply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "asdfasdf",
+      "details": "sdfsadf",
+      "category": "todos",
+      "id": 4
+    },
+    {
+      "title": "asfd",
+      "details": "asdf",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "asdfsadf",
+      "details": "sadfsadf",
+      "category": "todos",
+      "importance": "Medium",
+      "id": 6
+    },
+    {
+      "title": "asdfasdf",
+      "details": "dfasdsad",
+      "category": "work",
+      "importance": "",
+      "id": 7
+    },
+    {
+      "title": "asf",
+      "details": "asdffsadf",
+      "category": "todos",
+      "importance": "",
+      "id": 8
+    },
+    {
+      "title": "asdf",
+      "details": "sfd",
+      "category": "money",
+      "importance": "High",
+      "id": 9
+    },
+    {
+      "title": "asdf",
+      "details": "f",
+      "category": "money",
+      "importance": "Medium",
+      "id": 10
+    }
+  ]
+}
